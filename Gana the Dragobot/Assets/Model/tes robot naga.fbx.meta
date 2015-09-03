@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: e7df2ddcbb9d94b40ba535be83b5114f
+timeCreated: 1441285855
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone
+    100002: dragobot rig.001
+    100004: dragobot.001
+    100006: foot.L
+    100008: foot.R
+    100010: head
+    100012: IK.L
+    100014: IK.R
+    100016: IKPole.L
+    100018: IKPole.R
+    100020: lowArm.L
+    100022: lowArm.R
+    100024: lowLeg.L
+    100026: lowLeg.R
+    100028: mouth
+    100030: neck01
+    100032: neck02
+    100034: root
+    100036: spine01
+    100038: spine02
+    100040: tail01
+    100042: tail02
+    100044: tail03
+    100046: tail04
+    100048: //RootNode
+    100050: upArm.L
+    100052: upArm.R
+    100054: upLeg.L
+    100056: upLeg.R
+    100058: wing.L
+    100060: wing.R
+    100062: wingCtrl.L
+    100064: wingCtrl.R
+    400000: Bone
+    400002: dragobot rig.001
+    400004: dragobot.001
+    400006: foot.L
+    400008: foot.R
+    400010: head
+    400012: IK.L
+    400014: IK.R
+    400016: IKPole.L
+    400018: IKPole.R
+    400020: lowArm.L
+    400022: lowArm.R
+    400024: lowLeg.L
+    400026: lowLeg.R
+    400028: mouth
+    400030: neck01
+    400032: neck02
+    400034: root
+    400036: spine01
+    400038: spine02
+    400040: tail01
+    400042: tail02
+    400044: tail03
+    400046: tail04
+    400048: //RootNode
+    400050: upArm.L
+    400052: upArm.R
+    400054: upLeg.L
+    400056: upLeg.R
+    400058: wing.L
+    400060: wing.R
+    400062: wingCtrl.L
+    400064: wingCtrl.R
+    4300000: dragobot.001
+    9500000: //RootNode
+    13700000: dragobot.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
